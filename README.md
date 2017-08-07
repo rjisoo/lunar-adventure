@@ -20,12 +20,12 @@ The above script will go through the following steps:
 
 visit `localhost:3000` in your browser
 
-##To run tests:
+## To run tests:
 `npm test`
 
 ## Features
-### Built with Phaser.io
-### Support Mobile Gyro
+1. Built with Phaser.io
+1. Support Mobile Gyro
 
 Play [Lunar Adventure](http://lunar-adventure.herokuapp.com) in your mobile device. You can tilt your device instead of using arrow keys.
 
